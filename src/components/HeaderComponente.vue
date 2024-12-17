@@ -1,5 +1,6 @@
 <script setup>
 </script>
+
 <template>
    <nav>
      <router-link to="/" class="nav-title">AlMossar</router-link>
@@ -7,9 +8,6 @@
      <router-link to="/tv" class="nav-link">Programas de TV</router-link>
    </nav>
 </template>
-
-
-
 
 <style scoped>
 nav {
